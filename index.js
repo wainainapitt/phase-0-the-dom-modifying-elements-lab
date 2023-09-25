@@ -6,3 +6,4 @@ const body = document.createTextNode("Hello, World!");
 newHeader.appendChild(body);
 newHeader.setAttribute("id", "victory")
 newHeader.textContent = "Peter is the champion"
+//Nice stuff
